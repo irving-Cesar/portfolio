@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "To-do List",
+    "descricao": "Aplicação simples para gerenciamento de tarefas, com funcionalidades de adicionar, marcar como concluído e remover itens.",
+    "url": "https://app-todo-list-react.vercel.app"
+  },
+  {
+    "nome": "Jogo da velha",
+    "descricao": "Versão interativa do clássico jogo da velha, com lógica de vitória e reinício de partida.",
+    "url": "https://jogo-da-velha-react-omega.vercel.app"
+  },
+  {
+    "nome": "Postit",
+    "descricao": "Um dos meus primeiros programas. Essa é uma tela simples que simula notas adesivas, permitindo criar, editar e deletar lembretes na tela",
+    "url": "teste"
+  }
+]
