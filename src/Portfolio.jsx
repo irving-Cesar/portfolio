@@ -57,7 +57,7 @@ export default function Portfolio() {
         </a>
 
         <a 
-          href="public/Curriculo.pdf"
+          href="/Curriculo.pdf"
           download
           rel="noopener noreferrer"
           className="flex items-center gap-2 bg-green-600 hover:bg-green-700 text-white px-4 py-2 rounded-xl transition"
