@@ -7,12 +7,12 @@ export default function Portfolio() {
     <main className="min-h-screen text-white p-6 bg-gradient-to-b from-blue-950 via-gray-950 to-black">
       <header className="text-center py-12">
       <motion.img
-        src="/public/myself.jpg"
+        src="/myself.jpg"
         alt="myself in a circular format"
         className="mx-auto rounded-full w-64 h-64 object-cover mb-4 border-4 border-gray-700"
         initial={{ opacity: 0, scale: 0.8 }}
-      animate={{ opacity: 1, scale: 1 }}
-      transition={{ duration: 0.6 }}
+        animate={{ opacity: 1, scale: 1 }}
+        transition={{ duration: 0.6 }}
       />
         <motion.h1
           className="text-4xl md:text-6xl font-bold"
